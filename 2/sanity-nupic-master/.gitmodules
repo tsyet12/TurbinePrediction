@@ -1,0 +1,4 @@
+[submodule "sanity"]
+	path = htmsanity/nupic/sanity
+	url = https://github.com/mrcslws/sanity.git
+	branch = stackable
